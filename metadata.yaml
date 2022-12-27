@@ -1,0 +1,31 @@
+_repo: Physiological-economy-in-nutrition-with-special-reference-to-the-minimal-proteid-requirement-__69439
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chittenden, R. H. (Russell Henry)
+    aliases:
+    - Chittenden, Russell Henry
+    - Chittenden, Russell H.
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '44532'
+    url: http://www.gutenberg.org/2009/agents/44532
+    wikipedia: https://en.wikipedia.org/wiki/Russell_Henry_Chittenden
+description: ''
+gutenberg_issued: '2022-11-28'
+identifiers:
+  gutenberg: '69439'
+language: en
+production_note: Mark C. Orton and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nutrition'
+- !lcsh 'Metabolism'
+- !lcc 'QP'
+- GITenberg
+title: "Physiological economy in nutrition, with special reference to the minimal\
+  \ proteid requirement of the healthy man\r\nan experimental study"
+url: http://www.gutenberg.org/ebooks/69439
